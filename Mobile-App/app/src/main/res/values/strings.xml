@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart Fridge</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Fridge Monitor</string>
+    <string name="temp_label">Temperature</string>
+    <string name="hum_label">Humidity</string>
+    <string name="status_label">Status</string>
+    <string name="unit_celsius">°C</string>
+    <string name="unit_percent">%</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_ok">Normal</string>
+    <string name="status_warning">Warning</string>
+    <string name="status_alert">Alert</string>
+    <string name="last_updated">Last updated</string>
+    <string name="connecting">Connecting…</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="temp_high">Temperature high</string>
+    <string name="hum_high">Humidity high</string>
+    <string name="temp_hum_high">Temp &amp; Humidity high</string>
+</resources>
